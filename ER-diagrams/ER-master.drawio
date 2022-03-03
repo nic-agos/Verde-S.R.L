@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-03T18:15:43.334Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.62" etag="jtdBkjWyTmyRbPZ5ueCG" version="16.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-03T18:53:52.467Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.62" etag="rAiN94m7dFiw3GRSYGwN" version="16.6.5" type="github">
   <diagram id="3hGfdoVpEfOINL4fJWES" name="Page-1">
-    <mxGraphModel dx="1483" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -82,7 +82,7 @@
         <mxCell id="V4bar3wsAy12n1TZm8ha-38" value="Contatto preferito" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="401" y="321" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="V4bar3wsAy12n1TZm8ha-39" value="Cliente privato" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;perimeterSpacing=0;" parent="1" vertex="1">
+        <mxCell id="V4bar3wsAy12n1TZm8ha-39" value="Privato" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;perimeterSpacing=0;" parent="1" vertex="1">
           <mxGeometry x="161" y="401" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="V4bar3wsAy12n1TZm8ha-40" value="Rivendita" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;perimeterSpacing=0;" parent="1" vertex="1">
@@ -665,7 +665,7 @@
         <mxCell id="V4bar3wsAy12n1TZm8ha-191" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1364" y="775" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="V4bar3wsAy12n1TZm8ha-192" value="Colorazione (1, N)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="V4bar3wsAy12n1TZm8ha-192" value="Colorazione (1,N)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1254" y="769" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="V4bar3wsAy12n1TZm8ha-193" value="Prezzo" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;perimeterSpacing=0;" parent="1" vertex="1">
