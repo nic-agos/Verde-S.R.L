@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-15T14:04:20.811Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.39" etag="2M2Go3hMqMVvddCStrWO" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-15T14:23:06.612Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.39" etag="SqQdi7bijq72dVPcdO-v" version="17.1.2" type="github">
   <diagram id="3hGfdoVpEfOINL4fJWES" name="Page-1">
     <mxGraphModel dx="737" dy="505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -915,9 +915,6 @@
         </mxCell>
         <mxCell id="D6odM5lhYbgwMnqIU5Fz-41" value="Mezzo di com." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="680" y="715" width="90" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="D6odM5lhYbgwMnqIU5Fz-42" value="(0,1)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="486" y="681" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="D6odM5lhYbgwMnqIU5Fz-43" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="485" y="710" width="10" height="10" as="geometry" />
